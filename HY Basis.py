@@ -6,8 +6,8 @@ from nbformat import read, write
 print("setting policy")
 asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
-input_ntbk = "J:\\53. Live HY Basis\\v67.ipynb"
-output_ntbk = "J:\\53. Live HY Basis\\v67.ipynb"
+input_ntbk = "J:\\53. Live HY Basis\\v3.ipynb"
+output_ntbk = "J:\\53. Live HY Basis\\v3.ipynb"
 
 print("loading ntbk")
 
