@@ -6,8 +6,8 @@ from nbformat import read, write
 print("setting policy")
 asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
-input_ntbk = "J:\\53A. HY Bonds Basis Email\\Part B.ipynb"
-output_ntbk = "J:\\53A. HY Bonds Basis Email\\Part B.ipynb"
+input_ntbk = "J:\\53A. HY Bonds Basis Email\\Part B2.ipynb"
+output_ntbk = "J:\\53A. HY Bonds Basis Email\\Part B2.ipynb"
 
 print("loading ntbk")
 
